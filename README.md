@@ -27,3 +27,6 @@ Note: You will need a free tawk.to account to generate the embed code, create on
 === Frequently Asked Questions ===
 If you have any questions, our Knowledge Base and 24/7/365 support is here to help
 http://tawk.uservoice.com/knowledgebase
+
+------------------
+ if you need some help, please contact me through https://www.bitit.it
