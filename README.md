@@ -6,7 +6,7 @@ Create a free account here: https://www.tawk.to/
 
 === Version compatibality ===
 osCommerce phoenix-1.0.7.9
-
+php.7.3.x
 
 === Installation ===
 1. Download and extract archive to a folder on your computer
