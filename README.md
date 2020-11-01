@@ -1,4 +1,7 @@
 # oscommerce-phoenix-1.0.7.9-tawk-to-chat
+this the code come from: https://apps.oscommerce.com/tUO7I&tawk-to-live-chat
+i will try to adapt at new phoenix
+
 === About tawk.to ===
 tawk.to is a Free live chat application designed to increase the effectiveness in managing the online customer engagement experience, enabling multiple websites and agents in a single dashboard interface to chat with the visitors on your website. 
 Create a free account here: https://www.tawk.to/
